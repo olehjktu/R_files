@@ -1,7 +1,13 @@
-#  download tobit_minimal.R and place it in your getwd() path
 # Install marginaleffects and AER
 
-source("tobit_minimal.R")
+#  download tobit_minimal.R and place it in your getwd() path
+# then uncomment the line below
+# source("tobit_minimal.R")
+
+# Or, alternativel, after installing marginaleffects and AER
+# uncomment the next line:
+# source("https://raw.githubusercontent.com/olehjktu/R_files/main/tobit_minimal.R")
+
 
 # Example 1
 data("Affairs")
