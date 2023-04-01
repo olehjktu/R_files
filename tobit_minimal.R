@@ -4,8 +4,8 @@
 # tobit_me_examples.R contains examples
 
 # Install marginaleffects and AER
-library(marginaleffects)
-library(AER)
+# library(marginaleffects)
+# library(AER)
 
 options("marginaleffects_model_classes" = "tobitK")
 get_predict.tobitK <-
