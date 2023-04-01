@@ -1,4 +1,6 @@
 # Install marginaleffects and AER
+library(marginaleffects)
+library(AER)
 
 #  download tobit_minimal.R and place it in your getwd() path
 # then uncomment the line below
